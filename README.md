@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuradha Yeole</h1>
-<h3 align="center">Master’s Student at Cornell University| Tech Enthusiast with a focus on Machine Learning,AI & Data Science</h3>
+<h3 align="center">Master’s Student at Cornell University| Tech Enthusiast with a focus on Machine Learning, AI & Data Science</h3>
 
-- 🔭 I’m currently working on **fashion-tech,AI & Machine Learning**
+- 🔭 I’m currently working on **fashion-tech, AI & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anuradha-yeole](https://github.com/anuradha-yeole)
 
